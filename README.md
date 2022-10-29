@@ -1,4 +1,4 @@
-# Image-Colorizer V0.02
+# Image-Colorizer V0.04
 
 **Original Image**         |      **Input Image**  |          **Output Image** |               
 :-------------------------:|:-------------------------:|:-------------------------:|
