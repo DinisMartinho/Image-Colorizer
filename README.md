@@ -2,4 +2,4 @@
 
 **Original Image**         |      **Input Image**  |          **Output Image** |               
 :-------------------------:|:-------------------------:|:-------------------------:|
-![](https://cdn.discordapp.com/attachments/782685453396475976/1036006664366719077/582ddb16-f561-44c2-95bc-7d0a305a4e4f.png)  |![](https://cdn.discordapp.com/attachments/782685453396475976/1036006664870055936/d11069f6-1af5-470c-9621-03e639bf73d2.png)  |![](https://cdn.discordapp.com/attachments/782685453396475976/1036006665213972570/e6badd4f-b681-47cf-bfc1-f7daf97fb455.png)  |
+![](https://media.discordapp.net/attachments/782685453396475976/1036670390707171388/08aa71d1-0245-41d6-8c31-b31acdc437d8.png)  |![](https://media.discordapp.net/attachments/782685453396475976/1036670391080468480/a3eed604-1eec-4c08-90b8-45e04cafb772.png)  |![](https://media.discordapp.net/attachments/782685453396475976/1036670391441182892/b99d76bf-f57b-4bdb-ac31-3f9c68130543.png)  |
