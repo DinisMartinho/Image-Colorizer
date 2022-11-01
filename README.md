@@ -1,6 +1,6 @@
 # Image-Colorizer V0.04
 
-This neural network requires a huge amount of memory and processing power. Currently trying to optimize it.
+This neural network requires an huge amount of memory and processing power. Currently trying to optimize it.
 
 **Original Image**         |      **Input Image**  |          **Output Image** |               
 :-------------------------:|:-------------------------:|:-------------------------:|
