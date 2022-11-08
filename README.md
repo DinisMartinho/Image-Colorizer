@@ -6,7 +6,7 @@ This neural network requires at least **1.5 GB** of VRAM/RAM to process a **512x
   <img src="https://cdn.discordapp.com/attachments/997620797826945045/1039622953043759155/image.png" width="75%"/>
 </p>
 
-<h1 align="center">Some examples</h1>
+<h1 align="center">Inputs | Outputs </h1>
 
 <p float="left" align="middle">
   <img src="https://cdn.discordapp.com/attachments/997620797826945045/1039617766518431784/unknown.png" width="35%" hspace="20"/>
