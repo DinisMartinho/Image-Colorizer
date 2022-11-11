@@ -2,11 +2,9 @@
 
 This neural network requires at least **1.4/1.7GB** of **VRAM/RAM** to process a **512x512 pixel images**, with each image taking around **0.7 to a second** of processing time in Google Collabs **free** Notebooks.
 
-<h2 align="center"></h1>
+Currently trying to optimize it even further and boost its performance using adversarial networks.
 
-<p float="left" align="middle">
-  <img src="https://cdn.discordapp.com/attachments/997620797826945045/1039622953043759155/image.png" width="75%"/>
-</p>
+<h2 align="center"></h1>
 
 <p float="left" align="middle">
   <img src="https://cdn.discordapp.com/attachments/997620797826945045/1039617766518431784/unknown.png" width="35%" hspace="20"/>
