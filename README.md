@@ -1,4 +1,4 @@
-# Image-Colorizer V1.03
+# Image-Colorizer V1.04
 
 This neural network requires at least **1.1/1.2GB** of **VRAM/RAM** to process a **512x512 image**, with each image taking around **0.15 to 0.23 seconds** of processing time in Google Collabs **free** Notebooks. It was trained on **256x256 images**, using a dataset containing **20 thousand** images.
 
