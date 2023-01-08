@@ -5,13 +5,13 @@ This neural network requires at least **1.1/1.2GB** of **VRAM/RAM** to process a
 <h2 align="center"></h1>
 
 <p float="left" align="middle">
-  <img src="https://media.discordapp.net/attachments/782685453396475976/1061737522247516210/f308a5d5-4b29-498c-9b96-8c84dc5be814.png" width="35%" hspace="20"/>
-  <img src="https://media.discordapp.net/attachments/782685453396475976/1061737522570481795/2c8c2c9c-1193-4035-8a2e-33fcc505f11d.png" width="35%" hspace="20"/> 
+  <img src="https://media.discordapp.net/attachments/997620797826945045/1039617766518431784/unknown.png" width="35%" hspace="20"/>
+  <img src="https://media.discordapp.net/attachments/997620797826945045/1039617784797204520/unknown.png" width="35%" hspace="20"/> 
 </p>
 
 <p float="left" align="middle">
-  <img src="https://media.discordapp.net/attachments/782685453396475976/1061737522864066731/2f04a2e9-83f1-4c1c-9e91-b4cdf53e3fdd.png" width="35%" hspace="20"/>
-  <img src="https://media.discordapp.net/attachments/782685453396475976/1061737523170263201/4761dc1f-97d2-498e-8e38-68731e55e7e9.png" width="35%" hspace="20"/> 
+  <img src="https://media.discordapp.net/attachments/997620797826945045/1039617862823854180/unknown.png" width="35%" hspace="20"/>
+  <img src="https://media.discordapp.net/attachments/997620797826945045/1039617929613946940/unknown.png" width="35%" hspace="20"/> 
 </p>
 
 <p float="left" align="middle"> 
